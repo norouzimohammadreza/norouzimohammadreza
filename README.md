@@ -2,7 +2,7 @@
 
 <div align="left">
     You can call me reza, I'm backend web developer.<br>
-    I was born at 2002 in Iran and I am very interested in software engineering and programming.
+     I am very interested in software engineering and programming.
 </div>
 
 ## 🌐 Socials:
