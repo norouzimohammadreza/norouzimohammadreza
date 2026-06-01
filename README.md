@@ -1,8 +1,9 @@
-# Hello There 👋 , I'm Mohammadreza Norouzi 
+# Hey there! 👋 I'm Mohammadreza Norouzi
 
 <div align="left">
-    You can call me reza, I'm backend web developer.<br>
-     I am very interested in software engineering and programming.
+⚡Call me Reza. I'm a backend developer who loves software engineering and programming.<br>
+🔧 Tech stack: Go, Php, Laravel, Filament, Livewire, Postgresql, Mysql<br>
+🧠 ENTP personality – always curious and exploring new ideas.
 </div>
 
 ## 🌐 Socials:
